@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fakeshop/static/css/main.c1126be1.chunk.css",
+    "main.js": "/fakeshop/static/js/main.55fd4bc0.chunk.js",
+    "main.js.map": "/fakeshop/static/js/main.55fd4bc0.chunk.js.map",
+    "runtime-main.js": "/fakeshop/static/js/runtime-main.1b09471d.js",
+    "runtime-main.js.map": "/fakeshop/static/js/runtime-main.1b09471d.js.map",
+    "static/js/2.1fccd1bc.chunk.js": "/fakeshop/static/js/2.1fccd1bc.chunk.js",
+    "static/js/2.1fccd1bc.chunk.js.map": "/fakeshop/static/js/2.1fccd1bc.chunk.js.map",
+    "index.html": "/fakeshop/index.html",
+    "precache-manifest.5f6a8970a3e7e4a708ab655dfc16bc7a.js": "/fakeshop/precache-manifest.5f6a8970a3e7e4a708ab655dfc16bc7a.js",
+    "service-worker.js": "/fakeshop/service-worker.js",
+    "static/css/main.c1126be1.chunk.css.map": "/fakeshop/static/css/main.c1126be1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b09471d.js",
+    "static/js/2.1fccd1bc.chunk.js",
+    "static/css/main.c1126be1.chunk.css",
+    "static/js/main.55fd4bc0.chunk.js"
+  ]
+}
